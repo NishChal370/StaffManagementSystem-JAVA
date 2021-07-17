@@ -1,2 +1,2 @@
-# staffManagementSystem-JAVA
-Staff Management System Using JAVA
+# Staff Management System Using JAVA
+
